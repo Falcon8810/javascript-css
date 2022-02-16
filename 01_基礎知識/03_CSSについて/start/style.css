@@ -8,3 +8,10 @@ span {
   height: 400px;
   background-color: magenta;
 }
+
+.first {
+  display: inline-block;
+  width: 100px;
+  height: 400px;
+  background-color: gray;
+}
